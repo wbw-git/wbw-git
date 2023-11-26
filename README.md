@@ -12,4 +12,4 @@ Before joining SJTU, I received my master's degree from the Beijing Institute of
 📫 **Contact me by**:
 - Email (98.wangbowen [AT] sjtu.edu.cn)
 - [Homepage](https://wbw-git.github.io/)
-- [Google Shcolar]([https://www.linkedin.com/in/runsheng-xu/](https://scholar.google.com.hk/citations?user=PK-ODQoAAAAJ&hl=zh-CN))
+- [Google Shcolar](https://scholar.google.com.hk/citations?user=PK-ODQoAAAAJ&hl=zh-CN)
