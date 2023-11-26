@@ -10,6 +10,6 @@ Before joining SJTU, I received my master's degree from the Beijing Institute of
 - **Control Theory** topics related to **Learning Model Predictive Control**
 
 📫 **Contact me by**:
-- Email (98.wangbowen [AT] sjtu.edu.cn)
+- Email (98.wangbowen@sjtu.edu.cn)
 - [Homepage](https://wbw-git.github.io/)
 - [Google Shcolar](https://scholar.google.com.hk/citations?user=PK-ODQoAAAAJ&hl=zh-CN)
