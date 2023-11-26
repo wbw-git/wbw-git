@@ -9,12 +9,6 @@ Before joining SJTU, I got my master degree in Beijing institute of Technology
 - **Autonomous Driving** topics related to **Roadside Perception**, **3D Object Detection**, and **Unsupervised Domain Adaptation**
 - **Control Theory** topics related to **Learning Model Predictive Control**
 
-
-😄 **I am open to**:
-
-- collaboration opportunities (anytime & anywhere & any type) and 
-- research internships
-
 📫 **Contact me by**:
 - Email (98.wangbowen [AT] sjtu.edu.cn)
 - [Homepage](https://wbw-git.github.io/)
